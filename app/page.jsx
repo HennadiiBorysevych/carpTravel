@@ -1,10 +1,12 @@
-import Header from "@/views/Header";
-import Hero from "@/views/Hero";
-import About from "@/views/About";
-import Offers from "@/views/Offers";
-import Career from "@/views/Career";
-import Gallery from "@/views/Gallery";
-import Contacts from "@/views/Contacts";
+import {
+  About,
+  Career,
+  Contacts,
+  Gallery,
+  Header,
+  Hero,
+  Offers,
+} from "@/sections";
 
 export default function Home() {
   return (
