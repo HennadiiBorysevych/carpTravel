@@ -1,3 +1,4 @@
-export default function Header() {
-  return <header className="text">s</header>;
-}
+const Header = () => {
+  return <header className="">s</header>;
+};
+export default Header;

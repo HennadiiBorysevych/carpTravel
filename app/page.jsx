@@ -7,7 +7,6 @@ import {
   Hero,
   Offers,
 } from "@/sections";
-
 export default function Home() {
   return (
     <>
